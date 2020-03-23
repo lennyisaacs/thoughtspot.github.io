@@ -13,7 +13,7 @@ Beginning with version 5.2 of ThoughtSpot, you no longer need a View when you wa
 
 Suppose you wanted to narrow down a result set based on criteria defined using a search. For example:
 
-Find the top 5 stores by sales in the bakery department
+Find the top 10 stores by sales in the bakery department
 
 Then you want to see all sales across all departments for those five stores.
 
